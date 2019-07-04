@@ -1,0 +1,36 @@
+Enter simulation length and call arrival rate 30 0.1
+0 minutes has passed
+0 calls are left in the waiting list
+0 calls have been completed
+5 minutes has passed
+0 calls are left in the waiting list
+0 calls have been completed
+10 minutes has passed
+0 calls are left in the waiting list
+0 calls have been completed
+15 minutes has passed
+1 calls are left in the waiting list
+0 calls have been completed
+20 minutes has passed
+2 calls are left in the waiting list
+1 calls have been completed
+25 minutes has passed
+2 calls are left in the waiting list
+2 calls have been completed
+30 minutes has passed
+2 calls are left in the waiting list
+3 calls have been completed
+35 minutes has passed
+1 calls are left in the waiting list
+4 calls have been completed
+40 minutes has passed
+1 calls are left in the waiting list
+5 calls have been completed
+45 minutes has passed
+0 calls are left in the waiting list
+5 calls have been completed
+Total number of calls entered and answered 6
+Total time taken to answer the calls 47
+Average wait time for a call to be answered 7
+Average wait time for a Priority 2 call to be answered 1.5
+Average wait time for a Priority 3 call to be answered 11

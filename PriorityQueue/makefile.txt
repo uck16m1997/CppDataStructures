@@ -1,0 +1,19 @@
+ass4: main.o CallCenter.o Call.o PriorityQueue.o
+
+	g++ -std=c++11 CallCenter.o Call.o PriorityQueue.o main.o -o ass4
+
+CallCenter.o: CallCenter.cpp
+
+	g++ -c -std=c++11 CallCenter.cpp
+
+Call.o: Call.cpp
+
+	g++ -c -std=c++11 Call.cpp
+
+PriorityQueue.o: PriorityQueue.cpp
+
+	g++ -c -std=c++11 PriorityQueue.cpp
+
+main.o: main.cpp
+
+	g++ -c -std=c++11 main.cpp
