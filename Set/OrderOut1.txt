@@ -1,0 +1,12 @@
+Enter the name of the file:
+spammers1.txt
+Size of the set is 20
+Enter the name of the file:
+check1.txt
+Number of bad IPS 4
+Number of good IPS 7
+Enter the name of the file:
+remove1.txt
+Number of removed IPS 5
+Size of the set after remove is 15
+Time taken from ordered set is 0.000841
