@@ -1,0 +1,118 @@
+Jack was added to the circle
+Jill was added to the circle
+James was added to the circle
+Jack added Jill as a friend
+Jill added Jack as a friend
+James added Jill as a friend
+James added Jack as a friend
+Jack added James as a friend
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
+1
+Members of the circle are :
+Jack
+Jill
+James
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
+2
+There are 3  members in the circle
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
+3
+There are 5 friends in the circle
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
+4
+Enter the name of the person: Jack
+Jack is a member of the circle
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
+5
+Enter the name of the person: Jill
+Friends of Jill are:
+Jack
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
+6
+Enter the name1 and name2: Jill Jack
+Jill designated Jack as a friend
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
+7
+Enter the name1 and name2: James Jill
+James hasn't been designated by Jill as a friend
+Type 1 for learning who are the members of the circle of friends?
+Type 2 for learning how many people belong to the circle of friends?
+Type 3 for learning how many friendships are part of the circle of friends?
+Type 4 for learning is name a member of the circle of friends?
+Type 5 for learning who has name designated as a friend?
+Type 6 for learning has name1 designated name2 as a friend?
+Type 7 for learning has name1 been designated by name2 as a friend?
+Type 8 to remove name1 as a designated friend of name2
+Type 9 for learning how many people have designated name as a friend?
+Type 10 to remove name as a member of the circle of friends
+Type 11 to quit
